@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "",
-  "mongoURI": "mongodb://localhost:27017/skicon"
+  "mongoURI": "mongodb+srv://skiadmin:12345@skicon-sot8m.azure.mongodb.net/test?retryWrites=true&w=majority"
 }
