@@ -9,7 +9,7 @@ const app = express();
 
 require('./startup/logging');
 require('./startup/routes')(app);
-require('/startup/prod')(app);
+require('./startup/prod')(app);
 // serve static files
 if (process.env.NODE_ENV === 'production') {
   //set static folder
