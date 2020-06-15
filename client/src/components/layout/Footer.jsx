@@ -16,28 +16,44 @@ const Footer = () => {
             <h5 className='white-text'>Links</h5>
             <ul>
               <li>
-                <Link
+                <a
+                  target='_blank'
+                  rel='noopener noreferrer'
                   className='grey-text text-lighten-3'
-                  to='www.facebook/oludiya'
+                  href='www.facebook/oludiya'
                 >
                   <i className='fab fa-facebook-square fa-4x' />
-                </Link>
+                </a>
               </li>
               <li>
-                <Link
+                <a
+                  target='_blank'
+                  rel='noopener noreferrer'
                   className='grey-text text-lighten-3'
-                  to='www.twitter.com/ayodiyah'
+                  href='www.twitter.com/ayodiyah'
                 >
                   <i className='fab fa-twitter-square fa-4x' />
-                </Link>
+                </a>
               </li>
               <li>
-                <Link
+                <a
+                  target='_blank'
+                  rel='noopener noreferrer'
                   className='grey-text text-lighten-3'
-                  to='www.linkedin.com/oludiya'
+                  href='www.linkedin.com/in/ayodiyah'
                 >
                   <i className='fab fa-linkedin fa-4x' />
-                </Link>
+                </a>
+              </li>
+              <li>
+                <a
+                  target='_blank'
+                  rel='noopener noreferrer'
+                  className='grey-text text-lighten-3'
+                  href='mailto:devayodiya@gmail.com'
+                >
+                  <i className='fab fa-google fa-4x' />
+                </a>
               </li>
             </ul>
           </div>
