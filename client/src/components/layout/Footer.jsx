@@ -20,7 +20,7 @@ const Footer = () => {
                   target='_blank'
                   rel='noopener noreferrer'
                   className='grey-text text-lighten-3'
-                  href='www.facebook/oludiya'
+                  href='https://www.facebook/oludiya'
                 >
                   <i className='fab fa-facebook-square fa-4x' />
                 </a>
@@ -30,7 +30,7 @@ const Footer = () => {
                   target='_blank'
                   rel='noopener noreferrer'
                   className='grey-text text-lighten-3'
-                  href='www.twitter.com/ayodiyah'
+                  href='https://www.twitter.com/ayodiyah'
                 >
                   <i className='fab fa-twitter-square fa-4x' />
                 </a>
@@ -40,7 +40,7 @@ const Footer = () => {
                   target='_blank'
                   rel='noopener noreferrer'
                   className='grey-text text-lighten-3'
-                  href='www.linkedin.com/in/ayodiyah'
+                  href='https://www.linkedin.com/in/ayodiyah'
                 >
                   <i className='fab fa-linkedin fa-4x' />
                 </a>
